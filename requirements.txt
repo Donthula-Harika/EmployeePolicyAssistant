@@ -1,0 +1,9 @@
+streamlit
+sentence-transformers
+transformers
+accelerate
+torch
+faiss-cpu
+langchain-text-splitters
+pypdf
+reportlab
