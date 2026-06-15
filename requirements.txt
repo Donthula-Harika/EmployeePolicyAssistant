@@ -1,9 +1,10 @@
 streamlit
 sentence-transformers
 transformers
-accelerate
 torch
+torchvision
+accelerate
 faiss-cpu
-langchain-text-splitters
 pypdf
+langchain-text-splitters
 reportlab
